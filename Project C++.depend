@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620510503 source:c:\users\mohamed\documents\project c++\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+
+1620604070 source:e:\my study\second year\second semster\file processing\project c++\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
